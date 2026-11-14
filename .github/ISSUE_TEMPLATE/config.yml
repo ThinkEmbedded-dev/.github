@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contributing guidelines
+    url: https://github.com/ThinkEmbedded-dev/.github/blob/main/CONTRIBUTING.md
+    about: How issues, commits and pull requests work in this organization.

@@ -1,0 +1,6 @@
+{
+  "name": "On develop labeler",
+  "description": "Adds the \"on develop\" label to issues fixed on develop and removes it on revert.",
+  "iconName": "octicon tag",
+  "categories": ["Automation"]
+}

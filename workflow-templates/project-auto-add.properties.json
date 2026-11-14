@@ -1,0 +1,6 @@
+{
+  "name": "Project auto-add",
+  "description": "Adds new issues and pull requests to the organization project.",
+  "iconName": "octicon project",
+  "categories": ["Automation"]
+}

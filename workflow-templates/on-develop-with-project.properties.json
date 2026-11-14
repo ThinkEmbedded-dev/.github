@@ -1,0 +1,6 @@
+{
+  "name": "On develop labeler + project status",
+  "description": "Like \"On develop labeler\", and also moves the issue in the organization project.",
+  "iconName": "octicon project",
+  "categories": ["Automation"]
+}
