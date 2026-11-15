@@ -29,7 +29,7 @@ exist in a repository is simply not applied, so each repository can have only wh
 
 | Tier | Labels |
 |---|---|
-| `base` | bug, enhancement, task, documentation, question, duplicate, invalid, wontfix, on develop |
+| `base` | bug, enhancement, task, documentation, testing, question, duplicate, invalid, wontfix, on develop |
 | `area` | area: sw, area: fw, area: hw |
 | `hw` | hw: next rev |
 | `advanced` | needs triage, breaking change, dependencies, do not close |
